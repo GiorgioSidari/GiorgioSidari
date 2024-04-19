@@ -1,0 +1,2 @@
+Hi there! 👋.
+I am a Master of Science student in Computer Science Engineering at Politecnico di Milano. I chose Software Engineering for complex systems track. I am good at handling projects in C language and java, but I have an unbridled desire to learn many more other programming languages, in order to attain a very high level of programming. On software projects, i also love the design part, because it allows me tu use my creativity and to build up a good starting structure.
